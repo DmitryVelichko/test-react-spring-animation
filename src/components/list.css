@@ -12,6 +12,15 @@
   cursor: pointer;
 }
 
+.btn:hover {
+    transform: scale(1.1);
+}
+
+.btn:active {
+    transform: scale(1.2);
+    background-color: lightblue;
+}
+
 .btnContainer {
   margin-bottom: 50px;
 }
