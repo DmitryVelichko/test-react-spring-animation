@@ -1,0 +1,16 @@
+.mainList {
+  display: flex;
+}
+
+.btn {
+  margin: 8px 16px;
+  padding: 8px 16px;
+  background-color: transparent;
+  color: #047ee2;
+  border: 1px solid #047ee2;
+  font-size: 16px;
+}
+
+.btnContainer {
+  margin-bottom: 50px;
+}
